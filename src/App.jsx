@@ -41,6 +41,11 @@ const App = () => {
           </button>
         ))}
       </div>
+      <p>
+        1. Assign the next color in sequence from the colors list to the button. <br />
+        2. Disable the button after it is clicked. <br />
+        3. Repeat the process for subsequent button clicks
+      </p>
     </div>
   );
 };
